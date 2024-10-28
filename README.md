@@ -1,5 +1,4 @@
 - 👋 Hi, I’m pieta
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Glua
 - 📫 You can reach me at discord pieta_madz
 - ⚡ Fun fact: i am lazy
